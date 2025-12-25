@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkshayRH
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Class 11
+- 🌱 I’m currently learning 1st sem Information Science Engineering 
 - 💞️ I’m looking to collaborate on C++ Projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
